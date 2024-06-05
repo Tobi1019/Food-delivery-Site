@@ -1,7 +1,3 @@
-# Food-delivery-SiteCertainly! Below is a README file for the food delivery app, detailing the structure, how to run it, and the key components of the project.
-
----
-
 # Food Delivery App
 
 ## Overview
